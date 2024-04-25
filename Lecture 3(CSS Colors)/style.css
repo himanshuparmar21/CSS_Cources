@@ -1,0 +1,17 @@
+body{
+    background-color: papayawhip;
+    /* color: darkblue; */
+    color: rgb(255, 0, 0);
+    /* rbg(red,green,blue) */
+}
+
+p{
+    /* color: rgba(0, 0, 0, 0.5); */
+    /* rgba(0,0,0,hee) : hee is uSe To Tranparante */
+    color: #000000;
+    /* 0 0 0 => red green blue */
+}
+
+/* Colors Resources */
+/* Coolors */
+/* WebAIM */
