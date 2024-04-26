@@ -1,0 +1,30 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* ol{
+    list-style-type:decimal;
+} */
+/* list-style-type is Use to change order sequance like (a,b,c,d..) */
+
+/* ul{
+    list-style-position: inside;
+    text-align: center;
+    color: red;
+    list-style-image: url(../img/uploadImgae.jpg);
+
+     list-style: type image position; short hand 
+} */
+
+/* ul li:nth-child(odd){
+    color: aqua;
+} */
+
+ul::marker{
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    content: "hello:";
+}
+
+/* ammrker is suse to change style */

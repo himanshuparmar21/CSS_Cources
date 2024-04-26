@@ -1,0 +1,29 @@
+
+a{
+    text-decoration: none;
+    /* text-decoration is remove underline of a tag */
+    cursor:pointer;
+    /* cursor is use to give Cursor arrow or Hand,ect */
+
+}
+
+a:visited{
+   color: green; 
+}
+/* a:visited is a pseudo class */
+/* visited means we alredy click link then second time show visited color */
+
+a:hover,a:focus{
+    color: yellow;
+    opacity: .5;
+}
+/* hover use when we select using corser */
+/* wehn click using tab then use focus */
+/* opacity is use lighter (0-1) */
+
+a:active{
+    color: red;
+}
+/* active is Use when click than that show red color */
+
+/* order : visited>hover>active */

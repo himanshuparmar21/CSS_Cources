@@ -1,0 +1,48 @@
+/*
+Typography is the Way that text is arranged and presents
+*/
+
+
+body{
+    padding: 10%;
+    font-size: 2rem;
+}
+
+/* input,button{
+    font:inherit;
+} */
+
+p{
+    /* text-decoration: overline; */
+    /* text-transform: capitalize; */
+    /* text-align: end; */
+    /* text-indent: 120px; */
+    
+    /* line-height: 1.5  ; */
+    /* letter-spacing: 20px; */
+    /* word-spacing: 20px; */
+
+    /* font-size: large; */
+    /* font-weight: 700; */
+    /* font-style: italic; */
+    font-family: cursive;
+}
+
+/* text-decoration is uSe To Give Some Decoration of text decoration line underline,overline of text(line top/bottom of text) */
+/* text-transform is Use to transform text lowercase,capitalize,uppercase  */
+/* text-align is Use To Justify Text (Starting) left,center,end,start,right */
+/* text-indent is Use To Give indentation of text */
+
+/* line-height is Use to Give Space between two line */
+/* latter-spacing is Use To Give Space Bettwen Latter */
+/* word-spacing is Use To Give Space Bettwen Word */
+
+/* font-size is Use To Give Size of font(each character) */
+/* font-weight is Use To Give font to Bold or lighter */
+/* font-style is Use to give text to italic or normal */
+/* font-family is Use to give font to Font Style */
+
+/* Font Family Recourse */
+/* Google Font */
+/* to Choose External Font First Copy Link and Paste link in head section of html(paste before stylesheet) */
+/* and Then use font-family  */
